@@ -24,7 +24,6 @@ CHB-MIT Scalp EEG Database (PhysioNet) — 23-channel EEG from patient chb01, sa
 
 **Key finding:** Accuracy dropped 22 percentage points from clinical to wearable conditions.
 
-![Wearable degradation chart]
 <img width="561" height="332" alt="image" src="https://github.com/user-attachments/assets/de9ef2e0-453a-4a38-9615-1cc9d88a93bd" />
 
 *Figure 1: Seizure detection accuracy and sensitivity under four conditions, showing progressive degradation from clinical to wearable settings.*
